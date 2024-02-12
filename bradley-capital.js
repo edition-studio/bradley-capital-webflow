@@ -29,4 +29,4 @@ window.addEventListener('scroll', function() {
     }
 });
 
-console.log('gitlab read');
+console.log('github read');
