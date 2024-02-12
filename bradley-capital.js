@@ -1,5 +1,3 @@
-console.log('latest version from jsdelivr');
-
 // Page wrapper fade in on page load
 document.addEventListener('DOMContentLoaded', function() {
   setTimeout(() => {
