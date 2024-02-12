@@ -28,5 +28,3 @@ window.addEventListener('scroll', function() {
         navbar.style.backgroundColor = 'rgba(17, 17, 17, 0)';
     }
 });
-
-console.log('github read');
